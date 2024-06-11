@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Li"
+    given-names: "Zaishang"
+    email: "zaishang.li@ucl.ac.uk"
+repository-code: "https://github.com/Zaishang11/new-template"
+title: "New Template: A cookiecutter package with UCL ARC recommendations."
+license: "MIT"
